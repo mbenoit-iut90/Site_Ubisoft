@@ -4,7 +4,7 @@
 Groupe D1
 BENOIT Mélanie
 STOCKY Tomi
-MBIZI KOUDENLA Charlène
+MBIZI KOUENDELA Charlène
 
 
 [Mail Mélanie BENOIT](mailto:mbenoit@edu.univ-fcomte.fr?subject=[SAE 1.06]) 
