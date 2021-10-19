@@ -6,8 +6,8 @@ BENOIT Mélanie
 STOCKY Tomi
 MBIZI KOUENDELA Charlène
 
-[Mélanie BENOIT](mailto:mbenoit@edu.univ-fcomte.fr?subject=SAE 1.06) 
 
+[Mélanie BENOIT](mailto:mbenoit@edu.univ-fcomte.fr?subject=SAE 1.06)
 
 
 # Livrable parties Économie et Documents numérique
