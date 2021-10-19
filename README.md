@@ -6,8 +6,7 @@ BENOIT Mélanie
 STOCKY Tomi
 MBIZI KOUENDELA Charlène
 
-
-[Mail Mélanie BENOIT](mailto:mbenoit@edu.univ-fcomte.fr?subject=[SAE 1.06]) 
+[Mélanie BENOIT](mailto:mbenoit@edu.univ-fcomte.fr?subject=SAE 1.06) 
 
 
 
