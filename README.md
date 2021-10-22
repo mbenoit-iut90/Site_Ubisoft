@@ -37,6 +37,8 @@ Mélanie s'est occupée de la version finale de la page d'acceuil, de la page "o
 Tomi s'est occupée de la première version de la page d'acceuil, ainsi que les pages "sensibilisation" et "initiatives".
 
 # Validation des pages
+Chacune d'entre nous a validé ses propres pages.
+
  Mélanie
  Charlène
  Tomi
