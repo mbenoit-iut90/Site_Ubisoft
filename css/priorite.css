@@ -125,8 +125,8 @@ border-radius: 5px 5px 5px 5px;
 }
 
 h1{
-	text-align: center;
-	font-size: 50px;
+  text-align: center;
+  font-size: 70px;
   color:#F04E4E;
   margin-top: 25px;
 }
@@ -156,12 +156,6 @@ p{
   height: 200px;
   margin-top: 30px;
   margin-bottom: 60px;
-}
-
-article {
-  min-height: 100%;
-  display: grid;
-  grid-template-rows: auto 1fr auto;
 }
 
 footer {
