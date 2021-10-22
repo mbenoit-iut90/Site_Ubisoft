@@ -116,7 +116,7 @@
   
 
   body{
-    background-image: url("rayman2.jpg");
+    background-image: url("./img/rayman2.jpg");
     background-color : #FFFFFF;
     background-size : 100% 800px;
     background-repeat: no-repeat;
