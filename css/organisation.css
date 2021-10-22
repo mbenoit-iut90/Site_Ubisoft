@@ -176,12 +176,6 @@ p{
   margin-top: 30px;
 }
 
-article {
-  min-height: 100%;
-  display: grid;
-  grid-template-rows: auto 1fr auto;
-}
-
 footer {
   display: flex;
   justify-content: center;
