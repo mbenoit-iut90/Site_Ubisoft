@@ -40,13 +40,35 @@ Mélanie s'est occupée de la version finale de la page d'accueil, de la page "o
 Chacune d'entre nous a validé ses propres pages.
 
  Mélanie
- <br>
- Charlène
- ![validation](doc/charlene_validation_économie.png)
- ![validation](doc/charlene_validation_présentation.png)
- ![validation](doc/charlene_validation_contact.png)
+ 
+ ![validation](doc/mélanie&STOCKY_validation_accueil.css.png)
+ ![validation](doc/mélanie&STOCKY_validation_accueil.html.png)
+ ![validation](doc/mélanie_validation_organisation.css.png)
+ ![validation](doc/mélanie_validation_organisation.html.png)
+ ![validation](doc/mélanie_validation_priorite.css.png)
+ ![validation](doc/mélanie_validation_priorite.html.png)
  
  <br>
+ 
+ Charlène
+ 
+ ![validation](doc/charlene_validation_économie.png)
+ 
+ ![validation](doc/charlene_validation_présentation.png)
+ ![validation](doc/charlene_validation_présentation_css.png)
+ ![validation](doc/charlene_validation_contact.png)
+ ![validation](doc/charlene_validation_contact_css.png)
+ 
+ 
+ <br>
+ 
  Tomi
-
+ 
+ ![validation](doc/STOCKY_ verification_initiative.css .png)
+ ![validation](doc/STOCKY_ verification_initiative.html .png)
+ ![validation](doc/STOCKY_ verification_sensibilisation.css.png)
+ ![validation](doc/STOCKY_ verification_sensibilisation.html.png)
+ 
+ 
+ 
 
