@@ -23,4 +23,16 @@ Nous avons décidé de rendre notre menu fixe pour une meilleure navigation, plu
 
 ![écran de zoning](doc/ecran_zoning.png)
 ![écran prototype](doc/ecran_prototype.png)
+Le zoning a été une reflexion commune et réalisé par Tomi.
+
+
+
+
+# Répartition des tâches
+Après avoir réfléchis sur l'arboresence du sites, nous nous somme réparties le nombre de pages entre nous et nous nous sommes convenus de réutiliser le contenu du rapport économique sur nos pages et en ajouter si c'était nécessaire. Puis nous avons codés nos pages sans qu'il y ait de code CSS complètement commun. 
+
+Nous avions 8 pages à coder.
+Charlène s'est occupée de la page de l'histoire, la page des activités économiques et de la page contact.
+Mélanie s'est occupée de la version finale de la page d'acceuil, de la page "organisation" et la page "priorités".
+Tomi s'est occupée de la première version de la page d'acceuil, ainsi que les pages "sensibilisation" et "initiatives".
 
