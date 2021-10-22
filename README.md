@@ -36,3 +36,9 @@ Charlène s'est occupée de la page de l'histoire, la page des activités écono
 Mélanie s'est occupée de la version finale de la page d'acceuil, de la page "organisation" et la page "priorités".
 Tomi s'est occupée de la première version de la page d'acceuil, ainsi que les pages "sensibilisation" et "initiatives".
 
+# Validation des pages
+ Mélanie
+ Charlène
+ Tomi
+
+
