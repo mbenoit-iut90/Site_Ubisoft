@@ -64,10 +64,10 @@ Chacune d'entre nous a validé ses propres pages.
  
  Tomi
  
- ![validation](doc/STOCKY_ verification_initiative.css .png)
- ![validation](doc/STOCKY_ verification_initiative.html .png)
- ![validation](doc/STOCKY_ verification_sensibilisation.css.png)
- ![validation](doc/STOCKY_ verification_sensibilisation.html.png)
+ ![validation](doc/STOCKY_verification_initiative.css.png)
+ ![validation](doc/STOCKY_verification_initiative.html.png)
+ ![validation](doc/STOCKY_verification_sensibilisation.css.png)
+ ![validation](doc/STOCKY_verification_sensibilisation.html.png)
  
  
  
