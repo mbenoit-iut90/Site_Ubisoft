@@ -40,7 +40,13 @@ Mélanie s'est occupée de la version finale de la page d'accueil, de la page "o
 Chacune d'entre nous a validé ses propres pages.
 
  Mélanie
+ <br>
  Charlène
+ ![validation](doc/charlene_validation_économie.png)
+ ![validation](doc/charlene_validation_présentation.png)
+ ![validation](doc/charlene_validation_contact.png)
+ 
+ <br>
  Tomi
 
 
